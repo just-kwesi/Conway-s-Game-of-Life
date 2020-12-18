@@ -19,12 +19,13 @@ h1 {
 
 #board td {
   border: 1px solid #ddd;
-  width: 2px;
-  height: 2px;
+  width: 5px;
+  height: 5px;
 }
 
 td.alive {
-  background-color: #8cc8dd;
+  /* background-color: #8cc8dd; */
+  background-color: black;
 }
 
 #control_panel {
